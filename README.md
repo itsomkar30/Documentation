@@ -85,11 +85,19 @@ After that sign in manually by entering the email and password
 
 
 This is the homescreen of the app in which you can book a doctor appointment for you 
-![1677174337133](https://user-images.githubusercontent.com/122784079/220991773-a573f653-a70d-4c90-947b-e65dd297f8b6.jpg)
+
+
 
 ![1677174337137](https://user-images.githubusercontent.com/122784079/220991814-5165c878-7ff9-4abd-9e0f-899626f2b249.jpg)
 
+
+![1677174337133](https://user-images.githubusercontent.com/122784079/220991773-a573f653-a70d-4c90-947b-e65dd297f8b6.jpg)
+
+
+
 Book the appointment by filling the correct Symptoms and with proper date and time slot
+
+
 
 ![1677174337118](https://user-images.githubusercontent.com/122784079/220992766-d0cfaeec-9795-4ec0-a9c8-6414199165d4.jpg)
 
