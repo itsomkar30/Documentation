@@ -73,7 +73,7 @@ After that you need to tell us weather that you are Doctor or Patient
 
 
 
-![1677174337154](https://user-images.githubusercontent.com/122784079/220991037-a114aeb4-188c-4e9a-9d7f-80fd8a49cf35.jpg)
+
 ![1677174337144](https://user-images.githubusercontent.com/122784079/220991077-1de619ba-aff3-4021-84b2-afd40934eed3.jpg)
 
 Create your account by entering the proper credentials. You will receive the confirmation email in which a link will be provided to you by clicking on the the link you can confirm your identity and continue to further procedure.
