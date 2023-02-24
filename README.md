@@ -144,6 +144,7 @@ Thia contains the medical stores and hospitals near you
 
 **Moving to the Appointment List Section**
 
+
 This section contains the appointments that you have (if you are doctor) or if you made appointments (if you are patient) You can see your Appointments by selecting the date
 
 
@@ -151,9 +152,13 @@ This section contains the appointments that you have (if you are doctor) or if y
 
 
 **Moving to the Settings Section**
+
+
 ![1677177257992](https://user-images.githubusercontent.com/122784079/220999074-8bf7a000-d7a1-4f4b-8c0b-92353dc0a8ee.jpg)
 
 **Profile** section is where you can change or update your personal details
+
+
 
 ![1677177257988](https://user-images.githubusercontent.com/122784079/220999387-1acf96f4-f899-4448-aa51-e03581019eab.jpg)
 
