@@ -126,7 +126,6 @@ Thia contains the medical stores and hospitals near you
 
 
 
-![1677176633290](https://user-images.githubusercontent.com/122784079/220997524-754f884a-4085-467b-be99-53f359c0d264.jpg)
 
 
 
@@ -136,19 +135,16 @@ Thia contains the medical stores and hospitals near you
 This section contains the appointments that you have (if you are doctor) or if you made appointments (if you are patient) You can see your Appointments by selecting the date
 
 
-![1677176989392](https://user-images.githubusercontent.com/122784079/220998095-4db883ae-5981-4de8-bf5f-ba65d691846a.jpg)
 
 
 **Moving to the Settings Section**
 
 
-![1677177257992](https://user-images.githubusercontent.com/122784079/220999074-8bf7a000-d7a1-4f4b-8c0b-92353dc0a8ee.jpg)
 
 **Profile** section is where you can change or update your personal details
 
 
 
-![1677177257988](https://user-images.githubusercontent.com/122784079/220999387-1acf96f4-f899-4448-aa51-e03581019eab.jpg)
 
 **Instant UPI** This option helps doctor to generate the UPI QR Code for taking fees from the patient Later Doctor can share this QR Code to patient for making the payment
 
